@@ -18,7 +18,7 @@ I'm a college student, now studying Computer Science at XMU.
 
 🌱 I’m enthusiastic about **Web Development** and **Algorithms**.
 
-🌈 I prefer these programming languages:
+🌈 I prefer these programming languages & frameworks:
 
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=PHP&logoColor=fff) 
  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) 
@@ -26,6 +26,4 @@ I'm a college student, now studying Computer Science at XMU.
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
- 
- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff) 
- ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
+ ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
