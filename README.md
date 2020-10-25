@@ -29,4 +29,4 @@ I'm a college student, now studying Computer Science at XMU.
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
  ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
  
- ### Maybe you will be intersted in my projects 
+ ### Maybe you will be intersted in my projects 👇
