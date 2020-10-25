@@ -16,9 +16,9 @@ I'm a college student, now studying Computer Science at XMU.
 
 🔭 I’m currently focusing on **Algorithm Competition (CCPC/ICPC)**, and trying to learn **Natural Language Processing**.
 
-🌱 I’m enthusiastic about **Web Development** and **Algorithms**.
+🌱 I’m enthusiastic about **Web Development** and **Algorithms**. Also know a little about **Desktop Development** and **Hackintosh**.
 
-🌈 I prefer these programming languages & frameworks:
+🌈 I prefer using these programming languages & frameworks:
 
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=PHP&logoColor=fff) 
  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) 
@@ -27,3 +27,4 @@ I'm a college student, now studying Computer Science at XMU.
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
+ ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
