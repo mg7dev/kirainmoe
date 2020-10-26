@@ -12,6 +12,7 @@ _← This avatar is my favorite Vup ⛩[**Aki Rinco**](https://space.bilibili.co
 
 [![Blog](https://img.shields.io/badge/-kirainmoe.com-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kirainmoe.com)
 [![Twitter](https://img.shields.io/badge/-@__yume__maruyama-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/_yume_maruyama_)
+[![Weibo](https://img.shields.io/badge/-weibo.com/returnnnn-E6162D?style=flat-square&logo=sina-weibo&logoColor=fff)](https://weibo.com/returnnnn)
 [![Telegram](https://img.shields.io/badge/-@yume__maruyama-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/yume_maruyama)
 [![Codeforces](https://img.shields.io/badge/-@kirainmoe-269539?style=flat-square&logo=codeforces&logoColor=fff)](https://codeforces.com/profile/kirainmoe)
 
