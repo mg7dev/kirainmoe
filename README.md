@@ -8,8 +8,6 @@ Yume Maruyama  です！
 
 I'm a college student, now studying Computer Science at XMU.
 
-_← This avatar is my favorite Vup ⛩[**Aki Rinco**](https://space.bilibili.com/479633069/)⛩_.
-
 [![Blog](https://img.shields.io/badge/-kirainmoe.com-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kirainmoe.com)
 [![Twitter](https://img.shields.io/badge/-@__yume__maruyama-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/_yume_maruyama_)
 [![Weibo](https://img.shields.io/badge/-weibo.com/returnnnn-E6162D?style=flat-square&logo=sina-weibo&logoColor=fff)](https://weibo.com/returnnnn)
